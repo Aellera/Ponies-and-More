@@ -1,0 +1,30 @@
+Thestral	= {
+	graphical_culture = westerngfx
+
+	
+	alicorn = {
+		primary = TSN
+			male_names = {
+				
+			}
+			female_names = {
+				
+			}
+			dynasty_names = {
+				"Deizcrohus" "Ilumnatum" "Aesira" "Gallatora" "Bistella" "Aerus"
+			}
+	}
+	earth = {
+		primary = THR
+			male_names = {
+				
+			}
+			female_names = {
+				
+			}
+			dynasty_names = {
+			"" "" "" "" "" ""
+			}
+	}
+	
+}

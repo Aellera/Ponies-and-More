@@ -1,0 +1,67 @@
+equestrian	= {
+	graphical_culture = westerngfx
+
+	male_names = {}
+	female_names = { }
+	
+	alicorn = {
+		primary = EQU
+			male_names = {
+				
+			}
+			female_names = {
+				
+			}
+			dynasty_names = {
+				"Deizcrohus" "Ilumnatum" "Aesira" "Gallatora" "Bistella" "Aerus"
+			}
+	}
+	earth = {
+		primary = EQE
+			male_names = {
+				
+			}
+			female_names = {
+				
+			}
+			dynasty_names = {
+			"" "" "" "" "" ""
+			}
+	}
+	pegasus = {
+		primary = EQP
+			male_names = {
+				
+			}
+			female_names = {
+				
+			}
+			dynasty_names = {
+				"" "" "" "" "" ""
+			}
+	}
+	unicorn = {
+		primary = EQC
+			male_names = {
+				
+			}
+			female_names = {
+				
+			}
+			dynasty_names = {
+				"" "" "" "" "" ""
+			}
+	}
+	crystal = {
+		primary = EQL
+			male_names = {
+				
+			}
+			female_names = {
+				
+			}
+			dynasty_names = {
+				"" "" "" "" "" ""
+			}
+	}
+}
